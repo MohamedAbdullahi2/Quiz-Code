@@ -1,0 +1,75 @@
+
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position:center; 
+    background-size: cover;
+    margin:10% 15% 60% 15%;
+    border: 1px solid black;
+    border-radius: 15px;
+  }
+
+main {
+    text-align: center;
+    justify-content: center;
+    flex: 1 1 auto;
+}
+footer {
+    text-align: center;
+}
+
+
+/*hide the bullet points from listings*/
+
+li {
+    width: 225px;
+    font-size: .50cm;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgb(13, 13, 59); }
+
+
+
+/*display only the intro page and hide the rest sections*/
+.question_page, .submit_page, .highscore_page, #check_line {
+    display:none;
+}
+
+.highscore_page {
+    color: white;
+}
+
+.question_page ul li {
+    color: azure;
+}
+
+.button {
+    color: white;
+    background-color: rgb(10, 10, 74);
+    font-size: 28px;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.button:hover {
+    background-color: purple;
+}
+
+.intro_page {
+    font-size: 36px;
+}
