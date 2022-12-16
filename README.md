@@ -29,3 +29,8 @@ Type git clone, and then paste the URL you copied earlier.
 $ git clone  https://github.com/MohamedAbdullahi2/Quiz-Code.git
 
 
+Deployement Url link:- 
+
+https://mohamedabdullahi2.github.io/Quiz-Code/
+
+
