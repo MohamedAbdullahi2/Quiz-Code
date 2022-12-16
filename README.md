@@ -18,7 +18,7 @@ This application will test your knowledge of javascript, css and html!
   
   
   
-Cloning a repository :=  
+Cloning a repository : 
   
 Open Git Bash.
 
