@@ -4,7 +4,9 @@ Description
 
 
 
-This application will test your knowledge of javascript, css and html!
+This Quiz application will test your knowledge of javascript, css and html!
+
+ Try your luck and rate your skill! 
 
 
 
@@ -33,4 +35,8 @@ Deployement Url link:-
 
 https://mohamedabdullahi2.github.io/Quiz-Code/
 
+
+
+License
+© Copyright MohamedAbdullahi 2022
 
